@@ -25,6 +25,14 @@ The analysis is based on the following tables:
 
 ---
 
+## 📁 Project Structure
+.
+├── notebook/
+│   └── scoring.ipynb - Main analysis notebook containing data extraction, exploration, and audit findings  
+├── README.md - Project documentation and summary of insights
+
+---
+
 ## 🔍 Key Insights
 
 ### 1. Score Distribution
