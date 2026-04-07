@@ -26,11 +26,13 @@ The analysis is based on the following tables:
 ---
 
 ## 📁 Project Structure
-.
+```text
+scoring-data-quality-audit/
+│
 ├── notebook/
-│   └── scoring.ipynb - Main analysis notebook containing data extraction, exploration, and audit findings  
-├── README.md - Project documentation and summary of insights
-
+│   └── scoring_data_quality_audit.ipynb # Main analysis notebook containing data extraction, exploration, and audit findings
+└── README.md                            # Project documentation and summary of insights 
+```
 ---
 
 ## 🔍 Key Insights
